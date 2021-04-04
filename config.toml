@@ -1,0 +1,25 @@
+baseURL = "https://example.com/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hi"
+theme = "hallo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "I'm Jordan Musk"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:jrdnmsk@gmail.com"
+
+  
+    
+    [params.colors]
+        background = "#1e4a36"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
+      
